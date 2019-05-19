@@ -10,3 +10,6 @@ Depending on what you wrote, the next will happen:
 * movie-this: it takes the name of the movie you wrote and returns the title, year, cast, IMDB rating, rotten tomatoes rating, country, language and plot of the movie. If you don't write a movie it returns you as default the information for the Mr. Nobody movie, and that if you haven't seen it, you should watch it. With the OMBD API.
 
 * do-what-it-says: it uses the readFile() to acces the text that is written on random.txt and return its information.
+
+
+LINK TO VIEW THE APP WORKING: https://youtu.be/arOgI9h2hF8 
